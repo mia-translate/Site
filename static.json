@@ -1,0 +1,4 @@
+{
+	"root": "public_html/",
+	"canonical_host": "${HOST}"
+}
