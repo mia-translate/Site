@@ -1,4 +1,7 @@
 {
 	"root": "public_html/",
-	"canonical_host": "${HOST}"
+	"canonical_host": "${HOST}",
+	"routes": {
+		"/*.html": "index.html",
+	}
 }
